@@ -21,8 +21,8 @@ tags:
 
 - 终于读完了李尚龙老师写的 青春三部曲 总之 有些东西还是 触动了心灵。
 - 你所谓的稳定不过是在浪费生命
-		- 那些无用的社交
-		- 离职后，剩下的，关我屁事
+    - 那些无用的社交
+    - 离职后，剩下的，关我屁事
 - 你只是看起来很努力
     - 看到的都是光鲜，看不到的都是苟且
     - 放弃无用的批判
@@ -46,6 +46,7 @@ tags:
     - 远离“穷人”
     - 彼此充电，期待更好地相聚
     - 你好就好，我就远远看着，不打扰
+    
 ## Epilogue
 
    **Be not afraid of life . Believe that life is worth living . and your belief will help create the fact.**
