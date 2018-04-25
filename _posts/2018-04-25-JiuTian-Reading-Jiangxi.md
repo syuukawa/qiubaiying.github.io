@@ -12,8 +12,10 @@ tags:
 
 
 ## Foreword
-- **ÂÃÓÎ**
-- **¹ÊÊÂ**
+
+- **Parents**
+- **Friends**
+- **Co-Worker**
 
 ## Main
 
