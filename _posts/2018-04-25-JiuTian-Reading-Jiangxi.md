@@ -20,8 +20,6 @@ tags:
 ## Main
 
 - Just like001
-- Just like
-    - Emotion
 
 
 
